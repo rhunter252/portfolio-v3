@@ -3,7 +3,6 @@
 import React, { useEffect, useRef } from "react";
 import { BsX } from "react-icons/bs";
 import { FaBars } from "react-icons/fa";
-import Image from "next/image";
 import gsap from "gsap";
 function Header() {
   let resMenu = useRef(null);
